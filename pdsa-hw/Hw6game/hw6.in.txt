@@ -1,0 +1,9 @@
+4
+Kristoff
+Hearts_10,Hearts_9,Hearts_Q,Hearts_J,Spades_7
+Elsa
+Spades_10,Hearts_K,Hearts_10,Diamonds_4,Clubs_4
+Anna
+Diamonds_4,Diamonds_4,Diamonds_Q,Diamonds_10,Clubs_10
+Olaf
+Clubs_A,Hearts_8,Diamonds_Q,Diamonds_7,Clubs_2
